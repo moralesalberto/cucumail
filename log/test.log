@@ -1,0 +1,335 @@
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (11.2ms)
+Date: Sat, 09 Nov 2013 15:25:20 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9a306ac3e_19003fd95885e6cc6777f@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.0ms)
+
+Sent mail to ynes@ynes.com (6.7ms)
+Date: Sat, 09 Nov 2013 15:26:14 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9a664cd3a_19113fea4485e6d4178cc@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.9ms)
+Date: Sat, 09 Nov 2013 15:27:10 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9a9ed6e61_19273fd215c5e6cc457f@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.9ms)
+Date: Sat, 09 Nov 2013 15:27:26 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9aae3cef9_19393fcf3945e6cc597eb@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.8ms)
+Date: Sat, 09 Nov 2013 15:28:19 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9ae35cdeb_19523ffd7c45e6d88062f@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.9ms)
+Date: Sat, 09 Nov 2013 15:28:41 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9af9bdbcc_19643fea38c5e6dc949f8@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This is the content of the email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (7.1ms)
+Date: Sat, 09 Nov 2013 15:32:08 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9bc810433_19b53fc82985e6d02767b@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.3ms)
+
+Sent mail to ynes@ynes.com (7.1ms)
+Date: Sat, 09 Nov 2013 15:32:56 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9bf8eae7d_19c63fe1c045e6d8578a8@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.8ms)
+Date: Sat, 09 Nov 2013 15:39:10 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9d6e2de88_19ec3feeb205e6d85438f@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.9ms)
+Date: Sat, 09 Nov 2013 15:39:51 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9d97b7c72_19ff3fe10dc5e6d4544f6@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.2ms)
+
+Sent mail to ynes@ynes.com (7.7ms)
+Date: Sat, 09 Nov 2013 15:40:11 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9dab692ff_1a113fe75e05e6d485454@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (7.2ms)
+Date: Sat, 09 Nov 2013 15:40:36 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9dc42baee_1a233febbd45e6cc79918@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.9ms)
+Date: Sat, 09 Nov 2013 15:41:06 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9de2f1c69_1a383fe8a105e6cc8733d@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.6ms)
+Date: Sat, 09 Nov 2013 15:41:56 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9e144b5df_1a4d3fde7845e6d833455@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.8ms)
+Date: Sat, 09 Nov 2013 15:41:58 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9e16a7595_1a593fc66985e6d8659e4@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (7.1ms)
+Date: Sat, 09 Nov 2013 15:43:00 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9e549863e_1a6f3fe78145e6d02737f@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  Rendered mailer/notification.html.erb (1.1ms)
+
+Sent mail to ynes@ynes.com (6.7ms)
+Date: Sat, 09 Nov 2013 15:43:25 -0500
+From: from@example.com
+To: ynes@ynes.com
+Message-ID: <527e9e6dece9a_1a823fd40105e6cc779e6@miguel.local.mail>
+Subject: hello
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+this is a sample email
+
+  [1m[35m (0.1ms)[0m  rollback transaction

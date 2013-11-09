@@ -1,0 +1,16 @@
+Given(/^an email with a subject "(.*?)"$/) do |subject|
+  @subject = subject
+end
+
+Given(/^a body with the content "(.*?)"$/) do |content|
+  @content = content
+end
+
+When(/^the email is delivered$/) do
+  Mailer.notification(@subject, @content).deliver
+end
+
+Then(/^the email should be in the deliveries stack$/) do
+  assert_equal(1, ActionMailer::Base.deliveries.size)
+  assert_equal('hello', @subject)
+end
